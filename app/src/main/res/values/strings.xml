@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="priority_array">
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+    </string-array>
+
+</resources>
